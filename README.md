@@ -26,9 +26,5 @@ You can install the required packages using:
 ```bash
 pip install -r requirements.txt
 
-TOP 10 MOST PERFORMING PLAYER IN 2023-24 SEASON
-![Figure_1](https://github.com/sakhilesk/PlayerPerformance/assets/89784327/43c2194c-9a12-47af-a6f3-70f4760d2820)
 
-PREDICTION PERFORMANCE FOR NEXT SEASON
-![Figure_2](https://github.com/sakhilesk/PlayerPerformance/assets/89784327/7a0d65de-3b38-4dcc-bdac-b08c307d32cd)
 
